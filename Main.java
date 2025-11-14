@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 <<<<<<< HEAD
-        System.out.println("Hola soy success desde la version principal!");
+        System.out.println("Hola soy success desde la rama mejoras!");
 	
 =======
         System.out.println("Hola mundo, soy Success");
